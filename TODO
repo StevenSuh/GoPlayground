@@ -1,0 +1,5 @@
+Reference: https://github.com/golang/go/wiki/Modules#example
+
+- Try building a simple app that modifies a Postgres database (user 'stevenesuh')
+- Learn how to use go's dependency management system + execution upon deployment
+
